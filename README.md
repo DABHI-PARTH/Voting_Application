@@ -21,7 +21,7 @@ This is a backend application for a voting system where users can vote for candi
 
 1. Clone the repository:
    
-   git clone 
+   git clone https://github.com/DABHI-PARTH/Voting_Application.git
 2. Run:
    npm i
 
